@@ -1,0 +1,20 @@
+
+.carousel-inner{
+    height: 400px;
+}
+
+.item, img style{
+   height: 100% !important;
+   width:  100% !important;
+   
+}
+.card {
+   padding: 60px;
+   grid: 4px;
+}
+.footer{
+   background-color: rgb(193, 45, 45);
+text-align: center;
+color: white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
